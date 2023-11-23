@@ -1,5 +1,5 @@
 moviepy
 pytube
-telegram
+python-telegram-bot
 
 -e .
